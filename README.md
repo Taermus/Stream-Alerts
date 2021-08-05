@@ -4,7 +4,7 @@ I always appreciate your donations and want to keep them fun! **Please look afte
 
 The below amounts have specific sounds / alerts associated with them. I will try to continuously update this list.
 
-|Bits|Outcome|
+|Bits|Alert|
 |----|-------|
 | 5  | Doot!|
 | 6  | Wilhelm Scream|  
