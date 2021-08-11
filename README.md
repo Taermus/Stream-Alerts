@@ -11,5 +11,6 @@ The below amounts have specific sounds / alerts associated with them. I will try
 | 7 | Oof | 
 |... |... |
 |20|Smol Taer|
+|21|Scam!|
 |...|...|
 | 69 | Noice |
