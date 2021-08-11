@@ -4,13 +4,14 @@ I always appreciate your donations and want to keep them fun! **Please look afte
 
 The below amounts have specific sounds / alerts associated with them. I will try to continuously update this list.
 
-|Bits|Alert|
-|----|-------|
-| 5  | Doot!|
-| 6  | Wilhelm Scream|  
-| 7 | Oof | 
-|... |... |
-|20|Smol Taer|
-|21|Scam!|
-|...|...|
-| 69 | Noice |
+|Bits|Alert|Description|
+|----|-------|---|
+| 5  | Doot!|Sound effect|
+| 6  | Wilhelm Scream|Sound effect|  
+| 7 | Oof |Sound effect|
+|... |... |...|
+|19|Small Taerfish|Taerfish swims along the bottom of the screen|
+|20|Smol Taer|Meet Smol Taer, change camera size & voice mod|
+|21|Scam!|Show the stream I'm a scam|
+|...|...|...|
+| 69 | Noice | 69... Noice|
