@@ -11,8 +11,8 @@ The below amounts have specific sounds / alerts associated with them. I will try
 | 7 | Oof |Sound effect|
 |... |... |...|
 | 11| Do a barrel roll!| Camera spin & Sound effect|
+|12|Small Taerfish|Taerfish swims along the bottom of the screen|
 |...|...|...|
-|19|Small Taerfish|Taerfish swims along the bottom of the screen|
 |20|Smol Taer|Meet Smol Taer, change camera size & voice mod|
 |21|Scam!|Show the stream I'm a scam|
 |22|Mute Taermus| Put Taermus in the quiet chamber|
