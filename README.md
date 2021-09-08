@@ -9,6 +9,8 @@ The below amounts have specific sounds / alerts associated with them. I will try
 | 5  | Doot!|Sound effect|
 | 6  | Wilhelm Scream|Sound effect|  
 | 7 | Oof |Sound effect|
+|8|Badum Tshhh!| Sound effect|
+|9| Wan Wan Wannnn| Sound effect|
 |... |... |...|
 | 11| Do a barrel roll!| Camera spin & Sound effect|
 |12|Small Taerfish|Taerfish swims along the bottom of the screen|
