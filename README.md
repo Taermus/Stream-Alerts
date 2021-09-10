@@ -18,5 +18,6 @@ The below amounts have specific sounds / alerts associated with them. I will try
 |20|Smol Taer|Meet Smol Taer, change camera size & voice mod|
 |21|Scam!|Show the stream I'm a scam|
 |22|Mute Taermus| Put Taermus in the quiet chamber|
+|23|Send Taermus to Prison| GFX / Graphical Effect|
 |...|...|...|
 | 69 | Noice | 69... Noice|
