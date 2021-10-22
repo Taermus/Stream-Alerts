@@ -11,6 +11,7 @@ The below amounts have specific sounds / alerts associated with them. I will try
 | 7 | Oof |Sound effect|
 |8|Badum Tshhh!| Sound effect|
 |9| Wan Wan Wannnn| Sound effect|
+|10|Water based drink| Sound effect & make me take a sip of my drink|
 |... |... |...|
 | 11| Do a barrel roll!| Camera spin & Sound effect|
 |12|Small Taerfish|Taerfish swims along the bottom of the screen|
