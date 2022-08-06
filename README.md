@@ -7,7 +7,7 @@ The below amounts have specific sounds / alerts associated with them. I will try
 |Bits|Alert|Description|
 |----|-------|---|
 | 5  | Doot!|Sound effect|
-| 6  | Wilhelm Scream|Sound effect|  
+| 6  | WOW!!!!!|Sound effect|  
 | 7 | Oof |Sound effect|
 |8|Badum Tshhh!| Sound effect|
 |9| Wan Wan Wannnn| Sound effect|
